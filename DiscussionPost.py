@@ -1,5 +1,3 @@
-
-
 """
 Here are three simple criteria to help decide whether to use a predefined or user-defined function:
 

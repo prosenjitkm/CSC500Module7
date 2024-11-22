@@ -1,6 +1,8 @@
 
 
 """
+Here are three simple criteria to help decide whether to use a predefined or user-defined function:
+
 Is It Already Available?
 > Predefined Function: Use if the functionality you need (e.g., len(), math.sqrt()) already exists.
 > User-Defined Function: Create your own if the task is unique or requires customization.

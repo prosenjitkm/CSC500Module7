@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a057f716-a043-472d-b215-ddac0ed10594" name="Changes" comment="discussion">
-      <change afterPath="$PROJECT_DIR$/Assignment/Assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiscussionReply.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a057f716-a043-472d-b215-ddac0ed10594" name="Changes" comment="assignment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,7 +174,7 @@
       <option name="presentableId" value="Default" />
       <updated>1732246773220</updated>
       <workItem from="1732246783862" duration="1350000" />
-      <workItem from="1732504891024" duration="1476000" />
+      <workItem from="1732504891024" duration="1862000" />
     </task>
     <task id="LOCAL-00001" summary="discussion">
       <option name="closed" value="true" />
@@ -205,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732247458782</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="assignment">
+      <option name="closed" value="true" />
+      <created>1732506853322</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732506853322</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +216,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="discussion" />
-    <option name="LAST_COMMIT_MESSAGE" value="discussion" />
+    <MESSAGE value="assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
